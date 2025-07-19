@@ -2,8 +2,8 @@
 
 This project contains Selenium WebDriver automation test scripts written in Java. It is structured according to the exam guidelines and includes the following test cases:
 
-1. **Search and Product Validation** – on Amazon   
-2. **Cart Functionality Validation** – on Amazon
+1. **Search and Product Validation** – on Flipkart   
+2. **Cart Functionality Validation** – on Flipkart
 3. **Form Validation** – on Apple’s Account Page (https://account.apple.com/account)
 
 ---
