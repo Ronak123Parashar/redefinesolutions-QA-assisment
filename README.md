@@ -1,0 +1,1 @@
+# redefinesolutions-QA-assisment
